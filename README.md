@@ -1,6 +1,6 @@
 # BioGenX System-Level Security Analysis
 
-**Project Link:** (https://github.com/Viney-Washington/Biogenx-system-level-security/blob/main/Viney%20Washington%20Part%20A%20System%20Level%20Security.pdf)
+**Project Link:** [View Repository](https://github.com/Viney-Washington/Biogenx-system-level-security/blob/main/Viney%20Washington%20Part%20A%20System%20Level%20Security.pdf)
 
 ## Overview
 This project analyzes system-level security risks and cyber resilience strategies for BioGenX following the Phantom Phoenix Advanced Persistent Threat (APT) attack. The analysis focuses on how attackers progress through the intrusion lifecycle and how organizations can strengthen defenses to reduce impact and maintain operational stability.
